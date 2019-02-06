@@ -10,7 +10,7 @@ namespace MVCSampleApplication.Controllers
     {
         public ActionResult Index()
         {
-            return View(zx);
+            return View();
         }
 
         public ActionResult About()
